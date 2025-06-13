@@ -1,5 +1,7 @@
 # I-span Team Project(資策會小組專題)
 
+
+
 #1. 題目：營建工區管理系統 使用.NET Core MVC 專案
 
 - 動機：
@@ -23,6 +25,7 @@
 - GIT 版控
 - 功能整合
 - 資料庫規劃及測試
+- https://www.canva.com/design/DAGp-hYSC5Y/ws9JaElcyQwvCe6VdREfuw/edit?utm_content=DAGp-hYSC5Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## 2.功能與系統項目
 
 ## 使用者與權限代號
